@@ -14,4 +14,4 @@ int main(){
   else if(b==false)
     cout<<"numero non primo"<<endl;
   return 0;
-}
+} 
